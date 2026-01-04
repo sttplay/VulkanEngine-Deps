@@ -16,3 +16,6 @@
 [submodule "FFmpeg"]
 	path = FFmpeg
 	url = https://github.com/FFmpeg/FFmpeg.git
+[submodule "glad"]
+	path = glad
+	url = https://github.com/Dav1dde/glad.git
